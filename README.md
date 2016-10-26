@@ -1,4 +1,4 @@
-# nodeScripts - Version 1.0.0
+# nodeScripts - Version 1.0.1
 
 This repository contains any javascript files I create or find
 useful enough to download from the internet to be included. In the
@@ -30,7 +30,7 @@ use.
   there.
 
 -----------------------------------------------------------------------
-***Last Release on 10/26/2016* Version 1.0.0**
+***Last Release Version 1.0.1 on 10/26/2016 at 13:25 CST***
 
 [1]: https://opensource.org/licenses/MIT "Information on the license (MIT) from The Open Source Initiative (OSI)" 
 [2]: http://www.nodegit.org/ "Offical NodeGit web site."
